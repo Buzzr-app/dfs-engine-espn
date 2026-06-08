@@ -52,9 +52,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/sarveshsea/dfs-engine-espn",
+  "homepage": "https://github.com/Buzzr-app/dfs-engine-espn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarveshsea/dfs-engine-espn.git"
+    "url": "https://github.com/Buzzr-app/dfs-engine-espn.git"
   }
 }
